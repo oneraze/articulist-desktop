@@ -1,1 +1,2 @@
-# articulist-desktop
+# Articulist Desktop
+### Built with Electron.js
