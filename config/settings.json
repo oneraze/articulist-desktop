@@ -1,0 +1,44 @@
+{
+    "preferences": {
+        "theme": {
+            "current": "kaejbfwao8f723odwnwebf",
+            "installed": [
+                {
+                    "name": "Articulist Light",
+                    "id": "kaejbfwao8f723odwnwebf",
+                    "description": "The default light theme for Articulist.",
+                    "setting": {
+                        "titlebar": {
+                            "background": "rgb(245, 245, 245)",
+                            "color": "#000",
+                            "buttonHoverColor": "#ececec"
+                        },
+                        "app": {
+                            "background": "#fff",
+                            "color":"#000",
+                            "font": "Jost"
+                        }
+                    }
+                },
+                {
+                    "name": "Articulist Dark",
+                    "id": "wa4irgewufbawibefbsaial",
+                    "description": "The default dark theme for Articulist.",
+                    "setting": {
+                        "titlebar": {
+                            "background": "#202020",
+                            "color": "#fff",
+                            "buttonHoverColor": "#313131"
+                        },
+                        "app": {
+                            "background": "#141414",
+                            "elementBackground": "#282828",
+                            "color":"#fff",
+                            "font": "Jost"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
