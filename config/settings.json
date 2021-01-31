@@ -1,11 +1,11 @@
 {
     "preferences": {
         "theme": {
-            "current": "kaejbfwao8f723odwnwebf",
+            "current": "articulist-default-dark",
             "installed": [
                 {
                     "name": "Articulist Light",
-                    "id": "kaejbfwao8f723odwnwebf",
+                    "id": "articulist-default-light",
                     "description": "The default light theme for Articulist.",
                     "setting": {
                         "titlebar": {
@@ -22,7 +22,7 @@
                 },
                 {
                     "name": "Articulist Dark",
-                    "id": "wa4irgewufbawibefbsaial",
+                    "id": "articulist-default-dark",
                     "description": "The default dark theme for Articulist.",
                     "setting": {
                         "titlebar": {
@@ -32,7 +32,7 @@
                         },
                         "app": {
                             "background": "#141414",
-                            "elementBackground": "#282828",
+                            "elementBackground": "#202020",
                             "color":"#fff",
                             "font": "Jost"
                         }

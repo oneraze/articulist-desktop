@@ -1,7 +1,6 @@
 const { BrowserWindow } = require('electron').remote
 
 $(document).ready(function() {
-
     var wind = BrowserWindow.getFocusedWindow();
     if (wind.isMaximized()) {
         $("#titlebar-button-restore").html('<i class="bi bi-fullscreen-exit"></i>')

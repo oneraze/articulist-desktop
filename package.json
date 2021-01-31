@@ -21,6 +21,7 @@
     "electron": "^11.2.1"
   },
   "dependencies": {
-    "custom-electron-titlebar": "^3.2.6"
+    "custom-electron-titlebar": "^3.2.6",
+    "express": "^4.17.1"
   }
 }

@@ -1,6 +1,7 @@
 const fs = require("fs")
 
 let theme = JSON.parse(fs.readFileSync("config/settings.json", "utf-8")).preferences.theme;
+
 let filterTheme = (conf) => {
     return conf.id == theme.current
 }
